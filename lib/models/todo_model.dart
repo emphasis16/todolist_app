@@ -16,8 +16,7 @@ class ToDoModel {
       ToDoModel(id: '03', todoText: 'Check Emails'),
       ToDoModel(id: '04', todoText: 'Team Meeeting'),
       ToDoModel(id: '05', todoText: 'Work on mobile apps for 4 hours'),
-      ToDoModel(id: '06', todoText: 'Dinner with Sinta'),
-      ToDoModel(id: '07', todoText: 'Cuddle with Sinta'),
+      ToDoModel(id: '06', todoText: 'Dinner with family'),
     ];
   }
 }
